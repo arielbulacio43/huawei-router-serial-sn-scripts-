@@ -6,3 +6,7 @@ Scripts en Python para conectarse vía SSH a routers Huawei y extraer el número
 - Python 3.x
 - Netmiko
 - Panda `para trabajar con archivos excel`
+
+
+
+esta fue una de las primeras automatizaciones que realize para dispositivos VRP_HUAWEI 
